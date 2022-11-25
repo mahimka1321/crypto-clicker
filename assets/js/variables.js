@@ -41,7 +41,7 @@ let clikPluss = document.getElementById('clikPluss')
 ///////////////////////////////////
 
 let clk = 0
-let up = 100
+let up = 1000
 let upg = 0
 ///////////////////////////////////
 /*значния цен магазина улучшений*/
