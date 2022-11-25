@@ -53,7 +53,7 @@ upOne.addEventListener('click', function() {
     if (clk >= One) {
         clk -= One
         One += 4
-        up += 1
+        up += 1000
         display.textContent = clk
         document.title = clk + " CriptoCoin"           
         upgradeSum.textContent = up
